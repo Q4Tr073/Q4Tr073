@@ -24,7 +24,7 @@
 <h5>NodeJS & Express: | NODE | Express | PostgreSQL | Ajax.</h5>
 </div>
 
-<p> I’m currently working on Henry´s final project <p>
+
 
 
 
